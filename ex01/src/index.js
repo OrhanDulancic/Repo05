@@ -1,15 +1,15 @@
-function main(){
+function main() {
     // only change code below this line
-    var myHomeTown = "Mostar";
     var myFirstName = "Orhan";
     var myLastName = "Dulancic";
-    // only change ccode above this line
+    var myHomeTown = "Mostar";
+    // only change code above this line
     return {
-        myFirstName,
-        myLastName,
-        myHomeTown
+      myFirstName,
+      myLastName,
+      myHomeTown,
     };
-}
-
-console.log(main());
-module.exports = main;
+  }
+  
+  console.log(main());
+  module.exports = main;

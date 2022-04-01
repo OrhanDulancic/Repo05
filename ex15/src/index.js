@@ -4,8 +4,7 @@ function main() {
         var myVerb = "ran";
         var myAdjective = "big";
         var myAdverb = "quickly";
-        var wordBlanks = "";
-        wordBlanks = "My " + myNoun + " is " + myAdjective + " and he " + myVerb + " very " + myAdverb + ".";
+        var wordBlanks = "My " + myNoun + " is " + myAdjective + " and he " + myVerb + " very " + myAdverb + ".";
     // Only chagne code above this code
     return wordBlanks;
 }
